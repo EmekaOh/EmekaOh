@@ -7,8 +7,7 @@ I am a passionate self-taught Full-stack Web Developer from Nigeria with a Bache
 [![Gmail Badge](https://img.shields.io/badge/-EmekaOh%40gmail.com-important?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:emekaoh@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-portfolio-red?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
 
-[![Emeka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emekaoh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Emeka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmekaOh&theme=high-contrast)](https://github.com/EmekaOH/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
