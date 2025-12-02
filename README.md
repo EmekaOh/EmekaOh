@@ -1,43 +1,63 @@
-# Hi, I am Emeka! Great to see you here! 👋
+# 👋 Hi, I'm **Emeka!**
 
-I am a passionate self-taught Full-stack Web Developer from Nigeria with a masters degree in Data Science and a Bachelors degree in Computer Science, I am currently working as an application developer at ACCESS ARM PENSION. I am a technology enthusiast, always willing to collaborate on innovative projects and ideas. Learn more about me and feel free to contact me here:
+Welcome to my GitHub profile — great to have you here!
 
-[![Linkedin Badge](https://img.shields.io/badge/-EmekaOh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/mwlite/in/ohaeri-chukwuemeka-349516239)
-[![Instagram Badge](https://img.shields.io/badge/-EmekaOh-blueviolet?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://www.instagram.com/emeka02__/)
-[![Gmail Badge](https://img.shields.io/badge/-EmekaOh%40gmail.com-important?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:emekaoh@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-portfolio-red?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
+I’m a **self-taught Full-stack Web Developer** from Nigeria with a **Master’s degree in Data Science** and a **Bachelor’s degree in Computer Science**.
+Currently, I work as an **Application Developer at ACCESS ARM PENSION**.
 
-[![Emeka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmekaOh&theme=high-contrast)](https://github.com/EmekaOH/github-readme-activity-graph)
+I’m passionate about technology, building scalable software solutions, and collaborating on innovative ideas.
+Feel free to explore my work and connect with me through the links below.
+
+
+### 🌐 **Connect With Me**
+
+[![Linkedin Badge](https://img.shields.io/badge/EmekaOh-blue?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/emekaoh/)
+[![Instagram Badge](https://img.shields.io/badge/EmekaOh-blueviolet?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/emekaoh_/)
+[![Facebook Badge](https://img.shields.io/badge/EmekaOh-1877F2?style=flat-square\&logo=facebook\&logoColor=white)](https://web.facebook.com/Emekah.02)
+[![Gmail Badge](https://img.shields.io/badge/Email-EmekaOh%40gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:emekaoh@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square\&logo=google-chrome\&logoColor=white)](https://emekaoh.netlify.app/)
+
+
+### 🗂 **GitHub Activity**
+
+[![Emeka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EmekaOh\&theme=high-contrast)](https://github.com/EmekaOH/github-readme-activity-graph)
+
 
 ## ⚡ Technologies
 
-### Language :
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-E34F26?style=flat-square&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+### **Languages**
 
-### Libraries & Framework :
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=Python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3)
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-005571?style=flat-square&logo=vuedotjs)
-![Angular](https://img.shields.io/badge/-Angular-23D00000?style=flat-square&logo=Angular)
-![Laravel](https://img.shields.io/badge/-Laravel-yellow?style=flat-square&logo=laravel)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 
-### DevOps & Cloud Tools:
+### **Frameworks & Libraries**
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=Angular\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square\&logo=node.js\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square\&logo=jquery\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square\&logo=bootstrap\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 
-## 📈 Stats
-EmekaOh
+
+### **Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmekaOh&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EmekaOh&theme=tokyonight" />
